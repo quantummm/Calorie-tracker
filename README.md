@@ -1,2 +1,2 @@
 # Calorie-tracker
-Android application
+A good android application which can track calories
